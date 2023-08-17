@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [FPT - Ha Noi](https://caodang.fpt.edu.vn/)
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **ReactJS , Nodejs**
 
 - 🤝 I’m looking for help with **ReactJS, Nodejs**
 
@@ -21,7 +21,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/cidii2k2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="cidii2k2" height="30" width="40" /></a>
+<a href="https://xlink.vn/pmo88o0p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="cidii2k2" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
