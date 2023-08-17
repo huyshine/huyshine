@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=huyshine&label=Profile%20views&color=0e75b6&style=flat" alt="huyshine" /> </p>
 <img align="right" alt="Code" style="padding-top:40px" width="431"  src="https://res.cloudinary.com/dmly98mc5/image/upload/v1671836183/products/5Myt_mcxxvl.gif">
 
-- 🔭 I’m currently working on [FPT Polytechnic - Ha Noi](https://caodang.fpt.edu.vn/)
+- 🔭 I’m currently working on [FPT - Ha Noi](https://caodang.fpt.edu.vn/)
 
 - 🌱 I’m currently learning **ReactJS**
 
