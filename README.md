@@ -1,6 +1,6 @@
 ![MasterHead](https://i.pinimg.com/originals/99/8e/05/998e055aba57c24138220937cc5166ab.gif)
 <h1 align="center">Hi 👋, I'm Nguyen Quoc Huy</h1>
-<h3 align="center">A passionate frontend developer from Viet Nam</h3>
+<h3 align="center">A passionate developer from Viet Nam</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=huyshine&label=Profile%20views&color=0e75b6&style=flat" alt="huyshine" /> </p>
 <img align="right" alt="Code" style="padding-top:40px" width="431"  src="https://res.cloudinary.com/dmly98mc5/image/upload/v1671836183/products/5Myt_mcxxvl.gif">
